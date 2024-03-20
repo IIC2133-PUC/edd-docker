@@ -1,5 +1,7 @@
 # Valgrind y C en Docker
 
+[Cápsula de como usar este setup](https://youtu.be/KlViufcUxRQ)
+
 ## Pasos para instalar
 
 1. Instala Docker y docker-compose. En macOS basta con instalar [docker desktop](https://docs.docker.com/desktop/mac/install).
